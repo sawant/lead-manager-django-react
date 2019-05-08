@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/Guru/.local/share/virtualenvs/lead_manager_react_django-kLXaJ4Al/bin/python",
+    "python.linting.enabled": false,
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": true
+}
